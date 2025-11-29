@@ -11,7 +11,9 @@ Keyboard Matrix
 
 Uses m3 bolts and heat set inserts to attach the PCB to the acual case.
 3 parts of the case, seprely printed, the bottom, the PCB protector and the lid.
+
 <img width="771" height="531" alt="image" src="https://github.com/user-attachments/assets/80b2b2cb-062f-4c1a-91f2-a5de2abfc73b" />
+
 <img width="761" height="696" alt="image" src="https://github.com/user-attachments/assets/0969ced7-fcd7-4bc7-a866-062946551e46" />
 
 
