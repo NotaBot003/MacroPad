@@ -22,6 +22,8 @@ Made with KiCad
 
 <img width="584" height="592" alt="image" src="https://github.com/user-attachments/assets/cefdaa13-4159-4d48-b65f-ac69e2a55251" />
 
+<img width="641" height="538" alt="image" src="https://github.com/user-attachments/assets/fe516e5f-edc6-48ba-bdad-4c2976c2c6b3" />
+
 ## BOM
 - 12 Cherry MX Switches
 - 12 1U DSA Keycaps
